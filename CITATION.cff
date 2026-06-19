@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both the article and the GazeBaseVR dataset."
+title: "Model-based extraction of binocular vergence reliability from VR eye tracking"
+authors:
+  - family-names: Akkaya
+    given-names: Ahmet
+    affiliation: "Bandırma Onyedi Eylül University"
+license: MIT
+repository-code: "https://github.com/<user>/gazebasevr-vergence-reliability"
+references:
+  - type: data
+    title: "GazeBaseVR, a large-scale, longitudinal, binocular eye-tracking dataset collected in virtual reality"
+    authors:
+      - family-names: Lohr
+        given-names: Dillon
+      - family-names: Aziz
+        given-names: Samantha
+      - family-names: Friedman
+        given-names: Lee
+      - family-names: Komogortsev
+        given-names: Oleg V.
+    doi: "10.6084/m9.figshare.21308391"
+    year: 2023
