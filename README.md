@@ -16,7 +16,7 @@ marginally better in-sample but is rejected on reproducibility grounds.
 > Research* (MDPI) Special Issue *“Digital Advances in the Evaluation of
 > Binocular Vision and Eye Movements.”*
 
-## Method in one paragraph
+## Method
 
 For every VRG (vergence) recording the **demanded** vergence angle is computed
 purely from stimulus geometry (target position and the recorded eye-centre
@@ -63,7 +63,6 @@ gazebasevr-vergence-reliability/
 │   └── identification.py        gaze-based identification probe (NOT in paper)
 ├── results/tables/              CSV outputs (git-ignored)
 ├── figures/                     PNG outputs (git-ignored; see figures/README.md)
-├── manuscript/                  manuscript.tex + references.bib
 └── docs/pipeline.md
 ```
 
